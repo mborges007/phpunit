@@ -1,0 +1,1 @@
+{"version":1,"defects":{"CalculadoraServiceTest::testCalculateSum":8,"CalculadoraTest::testAdd":8},"times":{"CalculadoraTest::testSomar":0.003,"CalculadoraServiceTest::testCalculateSum":0.01,"CalculadoraTest::testAdd":0.006,"CalculadoraTest::testException":0}}
